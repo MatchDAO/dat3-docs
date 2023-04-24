@@ -7,8 +7,8 @@ $DAT3 is the token that powers the DAT3 ecosystem.
 - Buy it on the exchange
 
 ## Emission Rate
-The total supply of $DAT3 is limited and pre-defined in the protocol at 5,256,000 with the mining reward decreasing over time. 
-The $DAT3 reward is divided by 2 every 2,628,000 blocks, or approximately one year. 
+The DAT3 token has an initial issue size of 0 and a total volume of less than 5,256,000. 7,200 DAT3 will be released every 12 epochs.
+Relative liquidity is controlled through a "governance right = stake volume * time" scheme.
 
 ## Current Emission
 | Distribution           | Reward/block($DAT3) | Reward/day($DAT3) |
